@@ -5,3 +5,4 @@ goals:
 2. Build a neovim extension with node.js.
 3. Maintain the coc-angular source code.
 4. Build a scalable neovim extension with node.js.
+5. Share any useful information with the community.
